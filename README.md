@@ -114,6 +114,20 @@ technologies to meet future requirements.</br>
 
 <!--
 
+intro-
+
+Hello everyone, my name is XXXX and currently I am pursuing my Bachelor's of Technology in College of engineering, Roorkee.I am very curious and excited about technologies and have the ability to explore many more things at the same time.Right now I am improving my skills in web development and trying to make it better and better. I am learning frontend things inside web development and then gradually I will try to learn backend. Due to this, my skills will go further towards full development, which will instill some confidence in me, and then I will get a chance to learn new things.
+
+
+
+
+linkedin-
+
+Hello Connections, 
+
+My name is XXXXX and I am a student at the College of Engineering Roorkee, Recently I joined GitHub(****LINK****), where I got to learn a lot and also explore a lot,and I'd love to join you there. I hope you guys will help me with some important contributions as well as some important connections as well.And from the pilot programme that was running at my college, I learned a lot of fundamental things that are very important to me.And I have tried to enhance my skills in web development as well as game development, which will make me more efficient.The credit goes to Sagar Gulati, sir who took a step towards something new, for which I am very grateful.I hope you guys will be of great help in my contribution. I would be very happy to join you and be able to learn something new from you.
+
+
 
 Here are some ideas to get you started:
 
